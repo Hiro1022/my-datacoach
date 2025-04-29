@@ -28,3 +28,7 @@ coverage
 *.sw?
 
 *.tsbuildinfo
+**/node_modules/
+**/.venv/
+dist/
+.DS_Store
